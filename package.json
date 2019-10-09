@@ -1,5 +1,6 @@
 {
   "name": "vote",
+  "homepage" : "http://AquinoLopez911.github.io/dynamicVote",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
